@@ -1,0 +1,11 @@
+/*
+ * ARC Darker styling for gnome-shell-extension: Workspace Indicator
+ * Use this stylesheet in place of 
+ * ~/.local/share/gnome-shell/extensions/workspace-indicator@gnome-shell-extensions.gcampax.github.com/stylesheet.css
+*/
+.panel-workspace-indicator {
+	padding: 0 7px;
+    background-color: rgba(65, 74, 89, 1);
+	border: 1px solid #252b34;
+    border-radius: 2px;
+}
